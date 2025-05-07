@@ -6,7 +6,7 @@ import numpy as np
 # Paths
 known_dir = r"/Known_faces"
 test_dir = r"/test_faces"
-output_dir = r"/CyFuture/results"
+output_dir = r"/results"
 os.makedirs(output_dir, exist_ok=True)
 
 # Function to augment known images
