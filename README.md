@@ -12,18 +12,6 @@ This project uses the `face_recognition` library with OpenCV to detect and recog
 
 ---
 
-## 📁 Folder Structure
-
-Face_Recognition/
-├── face_recognition_augmented.py # Main script
-├── Known_faces/ # Folder with labeled known faces
-├── test_faces/ # Folder with test images
-├── results/ # Output folder (auto-created)
-├── README.md
-└── requirements.txt # Python dependencies
-
-
----
 
 ## ⚙️ Installation
 
