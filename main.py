@@ -4,9 +4,9 @@ import os
 import numpy as np
 
 # Paths
-known_dir = r"/home/riya23235/CyFuture/Known_faces"
-test_dir = r"/home/riya23235/CyFuture/test_faces"
-output_dir = r"/home/riya23235/CyFuture/results"
+known_dir = r"/Known_faces"
+test_dir = r"/test_faces"
+output_dir = r"/CyFuture/results"
 os.makedirs(output_dir, exist_ok=True)
 
 # Function to augment known images
